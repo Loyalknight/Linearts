@@ -1,2 +1,2 @@
-# Linearts-
-This repository contains all my linearts 
+# Linearts
+This repository contains all my linearts
